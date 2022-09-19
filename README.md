@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Franklinson
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Software Engineering with ALX
 - 💞️ I’m looking to collaborate on a lot of deals
 - 📫 How to reach me.....@HasseyFranklin (twitter)
 
