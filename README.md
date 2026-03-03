@@ -140,7 +140,7 @@ Developed the **Abstract Management System** for conference operations.
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [(Add your link)](https://www.linkedin.com/in/franklin-hassey/)
+- 💼 LinkedIn: https://www.linkedin.com/in/franklin-hassey/
 - 🌍 Website: https://franklinhassey.me
 - 🤝 Open to collaboration on backend systems, AI agents, search infrastructure & health-tech innovation
 
